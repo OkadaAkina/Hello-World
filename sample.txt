@@ -1,2 +1,1 @@
-サンプルテキスト
-add develop
+sample
