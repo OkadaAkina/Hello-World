@@ -1,4 +1,1 @@
 sample
-add ita001
-ita002 add
-ita002-2 add
